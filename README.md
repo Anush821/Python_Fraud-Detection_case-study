@@ -3,6 +3,9 @@ Rule-Based Financial Transaction Fraud Detection
 # 🧠 Objective:
 To identify potential fraudulent transactions using simple yet effective rule-based logic, followed by evaluating performance with visual analysis and confusion matrix.
 # 📂 Dataset:
+This project uses the [PaySim synthetic dataset](https://www.kaggle.com/datasets/ntnu-testimon/paysim1) (via Kaggle).  
+Please download it from the above link and place it in the `/data` folder before running the notebook.
+
 • **Dataset Used**: PaySim Synthetic Financial Transactions Dataset
 
 • **Records**: ~6.3 million transactions
